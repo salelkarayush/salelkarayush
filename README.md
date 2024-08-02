@@ -28,11 +28,8 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a love 
 
 ## 📚 Currently Learning
 
-- ![HTMX](https://img.shields.io/badge/-HTMX-EB2D2D?logo=html5&logoColor=white&style=for-the-badge)
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
 
 
 ## 🌐 Connect with Me
@@ -40,4 +37,4 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a love 
 - [LinkedIn](https://www.linkedin.com/in/salelkarayush/)
 
 
-Feel free to explore my repositories and projects. Let's connect and create something amazing together!
+Feel free to explore my repositories and projects!

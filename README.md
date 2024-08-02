@@ -9,6 +9,7 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a love 
 - 🌐 Exploring the latest trends in web development
 
 ## 🔧 Technologies & Tools
+
 ### Frontend
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
@@ -26,15 +27,19 @@ Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a love 
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 - ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 
+### Languages
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+- ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
+- ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+
 ## 📚 Currently Learning
 
 - ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 
-
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/salelkarayush/)
-
 
 Feel free to explore my repositories and projects!

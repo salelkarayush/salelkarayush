@@ -35,10 +35,9 @@ Gaining more knowledge than the previous day!
 - ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 - ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 
-## 📚 Currently Learning
+## 📚 Currently Exploring
+- ![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-1D3557?logo=google-analytics&logoColor=white&style=for-the-badge)
 
-- ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 
 ## 🌐 Connect with Me
 

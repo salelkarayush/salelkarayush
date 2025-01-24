@@ -1,6 +1,6 @@
 # Hi there, I'm Ayush Salelkar! 👋
 
-Welcome to my GitHub profile! I'm a passionate Full-Stack Developer with a love for creating seamless and dynamic web applications. Currently, I'm diving deep into the world of modern web technologies and expanding my skillset in various frameworks and libraries.
+Gaining more knowledge than the previous day!
 
 ## 🚀 About Me
 

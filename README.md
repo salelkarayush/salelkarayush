@@ -50,16 +50,3 @@ I am a final-year Computer Engineering student at **Goa College of Engineering**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat)
 
-
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salelkarayush&show_icons=true&theme=radical&hide_border=true" alt="Ayush's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salelkarayush&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <small><i>Last updated: December 2025</i></small>
-</div>
